@@ -43,4 +43,12 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 
 -------------------- Second commit --------------------
 
-7 - Use `npx expo install expo-blur` to give blur effects
+8 - Use `npx expo install expo-blur` to give blur effects
+
+9 - Add mock data and fallback images
+
+10 - Use `npx expo react-native-fast-image` to render faster/better image
+
+11 - Use `useNavigationSearch` hooks to filter with search params
+
+-------------------- Third commit --------------------
