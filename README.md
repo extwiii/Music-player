@@ -19,9 +19,10 @@
   "compilerOptions": {
     "strict": true,
     "baseUrl": ".",
-    "paths": {
-      "@/*": ["*"]
-    }
+		"paths": {
+			"@/*": ["./src/*"],
+			"@/assets/*": ["./assets/*"]
+		}
   }
 }
 ```
@@ -35,3 +36,11 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 5 - To compile app locally -> https://docs.expo.dev/guides/local-app-development/
 
 -------------------- First commit --------------------
+
+6 - Create contants, styles, Stack and tabs navigation
+
+7 - Create all layouts and screens for our navigations
+
+-------------------- Second commit --------------------
+
+7 - Use `npx expo install expo-blur` to give blur effects
