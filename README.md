@@ -68,3 +68,7 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 15 - Use `react-native-loader-kit` to implement loading animation on the image
 
 -------------------- Forth commit --------------------
+
+16 - Install `react-native-reanimated` for floatin text animation on FloatinPlayer and implement that animation
+
+-------------------- Fifth commit --------------------
