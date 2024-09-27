@@ -52,3 +52,19 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 11 - Use `useNavigationSearch` hooks to filter with search params
 
 -------------------- Third commit --------------------
+
+12 - Install track player -> https://rntp.dev/docs/basics/installation
+
+13 - Update app.json / ios section to have audio option
+
+```
+  "infoPlist": {
+    "UIBackgroundModes": ["audio"]
+  }
+```
+
+14 - Initialise player and add that to root layer and implement press action to songs to start playing when user click
+
+15 - Use `react-native-loader-kit` to implement loading animation on the image
+
+-------------------- Forth commit --------------------

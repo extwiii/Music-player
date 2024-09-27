@@ -6,7 +6,7 @@ import { useNavigationSearch } from '@/hooks/useNavigationSearch'
 import { defaultStyles } from '@/styles'
 import { useMemo } from 'react'
 import { ScrollView, View } from 'react-native'
-import { Track } from '@/types/Track'
+import { Track } from 'react-native-track-player'
 
 const SongsScreen = () => {
   const search = useNavigationSearch({

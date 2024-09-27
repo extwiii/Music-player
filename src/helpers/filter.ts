@@ -1,4 +1,4 @@
-import { Track } from '@/types/Track'
+import { Track } from 'react-native-track-player'
 
-export const trackTitleFilter = (title: string) => (track: any) =>
+export const trackTitleFilter = (title: string) => (track: Track) =>
   track.title?.toLowerCase().includes(title.toLowerCase())
