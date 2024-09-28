@@ -93,6 +93,10 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 
 24 - Add Play and shuffle buttons to track lists
 
-25 - Implement Artist Screen, list of artist and individual artist screen
+25 - Implement Artists Screen, list of artists and individual artist screen
 
 -------------------- Eighth commit --------------------
+
+26 - Implement Playlists Screen, list of playlists and individual playlist screen
+
+-------------------- Nineth commit --------------------
