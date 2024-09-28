@@ -72,3 +72,13 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 16 - Install `react-native-reanimated` for floatin text animation on FloatinPlayer and implement that animation
 
 -------------------- Fifth commit --------------------
+
+17 - Create Player screen
+
+18 - Install `react-native-gesture-handler` and `react-native-awesome-slider` for progressbar gestures
+
+19 - Install `react-native-image-colors` and `expo-linear-gradient` for background linear gradient effect
+
+20 - Install `ts-pattern` for The exhaustive Pattern Matching library for TypeScript with smart type inference
+
+-------------------- Sixth commit --------------------
