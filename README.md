@@ -82,3 +82,11 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 20 - Install `ts-pattern` for The exhaustive Pattern Matching library for TypeScript with smart type inference
 
 -------------------- Sixth commit --------------------
+
+21 - Create Favorites screen
+
+22 - Install `zustand` with version `"^4.5.2"` for state management
+
+23 - Create queues for diffferent tracklists
+
+-------------------- Seventh commit --------------------
