@@ -6,6 +6,8 @@ import { StyleSheet, Text, TouchableHighlight, View } from 'react-native'
 import FastImage from 'react-native-fast-image'
 import LoaderKit from 'react-native-loader-kit'
 import { Track, useActiveTrack, useIsPlaying } from 'react-native-track-player'
+import { StopPropagation } from './utils/StopPropagation'
+import { TrackShortcutsMenu } from './TrackShortcutsMenu'
 
 export type TrackListItemProps = {
   track: Track
@@ -79,7 +81,15 @@ export const TrackListItem = ({
             )}
           </View>
 
-          <Entypo name="dots-three-horizontal" size={18} color={colors.icon} />
+          <StopPropagation>
+            <TrackShortcutsMenu track={track}>
+              <Entypo
+                name="dots-three-horizontal"
+                size={18}
+                color={colors.icon}
+              />
+            </TrackShortcutsMenu>
+          </StopPropagation>
         </View>
       </View>
     </TouchableHighlight>

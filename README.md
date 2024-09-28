@@ -1,4 +1,34 @@
-# Documentation
+# Music Player (native)
+
+A native music player inspired by Apple Music application built with
+
+- Expo
+- React Native
+- Typescript
+- Zustand
+
+- **Intuitive User Interface:** Sleek and user-friendly design
+- **Music Player:** Support for background play and controls.
+- **Dynamic Playlists:** Create and manage playlists.
+- **Live Updates:** Real-time updates and synchronization.
+- **Offline Support:** Play tracks even when you’re offline.
+- **Remote Control:** Play tracks even when you’re phone locked.
+
+## SS
+
+## Installation
+
+```bash
+yarn install
+```
+
+## Run IOS
+
+```bash
+npx expo run:ios
+```
+
+## Documentation
 
 1 - yarn create expo -t and then select blank(typescript) and give its name
 
@@ -100,3 +130,17 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 26 - Implement Playlists Screen, list of playlists and individual playlist screen
 
 -------------------- Nineth commit --------------------
+
+27 - Install `@react-native-menu/menu` for PopupMenus
+
+28 - Implement add to playlist feature
+
+29 - Implement add to favorite feature
+
+30 - Implement player remote control
+
+-------------------- Tenth commit --------------------
+
+# Credit
+
+[Build a Music Player app with React Native, Expo, Typescript and Zustand](https://www.youtube.com/watch?v=9CElrkFwiBU)
