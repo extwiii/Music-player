@@ -90,3 +90,9 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 23 - Create queues for diffferent tracklists
 
 -------------------- Seventh commit --------------------
+
+24 - Add Play and shuffle buttons to track lists
+
+25 - Implement Artist Screen, list of artist and individual artist screen
+
+-------------------- Eighth commit --------------------
