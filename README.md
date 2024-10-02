@@ -1,4 +1,4 @@
-# Music Player (native)
+# Music Player
 
 A native music player inspired by Apple Music application built with
 
@@ -6,6 +6,12 @@ A native music player inspired by Apple Music application built with
 - React Native
 - Typescript
 - Zustand
+
+<img width="128" alt="expo-logo" src="https://github.com/user-attachments/assets/44858dd9-939c-4483-82a4-b59150bff857">
+<img width="64" alt="typescript-logo" src="https://github.com/user-attachments/assets/a8122b96-9219-4812-8484-59d57237b10c">
+<img width="108" alt="zustand-logo" src="https://github.com/user-attachments/assets/272b5867-20c4-4578-aa43-3706473a249b">
+
+## Summary
 
 - **Intuitive User Interface:** Sleek and user-friendly design
 - **Music Player:** Support for background play and controls.
@@ -15,6 +21,10 @@ A native music player inspired by Apple Music application built with
 - **Remote Control:** Play tracks even when you’re phone locked.
 
 ## SS
+
+<img width="1000" alt="music-player-ss" src="https://github.com/user-attachments/assets/fc85057a-ea7c-44a5-add4-d88eeb14b105">
+
+<img width="1000" alt="music-player-ss-2" src="https://github.com/user-attachments/assets/bab5b3ee-8b33-4c0f-8049-b57628c5b45d">
 
 ## Installation
 
